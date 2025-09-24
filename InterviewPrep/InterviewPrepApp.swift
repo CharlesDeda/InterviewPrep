@@ -11,7 +11,8 @@ import SwiftUI
 struct InterviewPrepApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+//            ProfileView()
+            TaskView()
         }
     }
 }
